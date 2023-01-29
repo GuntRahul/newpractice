@@ -1,0 +1,2 @@
+# newpractice
+Practicing terraform scripts
